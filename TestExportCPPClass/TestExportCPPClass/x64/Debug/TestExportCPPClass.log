@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  TestExportCPPClass.cpp
+  Generating Code...
+     Creating library C:\Users\My computer\Temp\TestExportCPPClass\x64\Debug\TestExportCPPClass.lib and object C:\Users\My computer\Temp\TestExportCPPClass\x64\Debug\TestExportCPPClass.exp
+  TestExportCPPClass.vcxproj -> C:\Users\My computer\Temp\TestExportCPPClass\x64\Debug\TestExportCPPClass.dll

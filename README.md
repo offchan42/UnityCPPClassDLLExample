@@ -17,6 +17,8 @@ Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You wil
 3. Go to Build -> Build solution, make sure the build is set to x64 to get a
     `dll` file ready for Unity project with x64 architecture.
     (Optional: You could also build x86 version too)
+
+    ![dll-directory](img/42155105_2707337372617083_389608986069958656_n.jpg)
 4. Create a new Unity project.
 5. Copy `dll` file from `TestExportCPPClass/x64/Debug` into Unity's `Assets/Plugins/x86_64` directory.
 6. Open Unity project and copy the C# script from `TestImportCPPClass/Assets/` directory.

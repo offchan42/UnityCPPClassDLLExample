@@ -4,7 +4,7 @@ Example exporting CPP class as DLL and importing in Unity as native plugin
 
 ## How to run NOW
 
-Open Unity project and press Play button or Ctrl+P. You will see the output is being printed in the console.
+Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You will see the output is being printed in the console.
 ![unity-output-console](img/42227750_2707342812616539_2434765356070338560_n.jpg)
 
 ## How to reproduce result from scratch

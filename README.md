@@ -32,5 +32,7 @@ Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You wil
 ## Related resources
 
 <https://stackoverflow.com/questions/315051/using-a-class-defined-in-a-c-dll-in-c-sharp-code/315064#315064>
+
 <https://github.com/wm4n/unity-cpp-lib>
+
 <https://github.com/Meach/UnitySimpleNativeLibrary>

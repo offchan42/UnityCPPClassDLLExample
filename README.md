@@ -28,3 +28,7 @@ Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You wil
 8. Press Play button to see the output in the console.
 
     ![unity-output-console](img/42227750_2707342812616539_2434765356070338560_n.jpg)
+
+## Related resources
+
+<https://stackoverflow.com/questions/315051/using-a-class-defined-in-a-c-dll-in-c-sharp-code/315064#315064>

@@ -23,6 +23,8 @@ Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You wil
 
     ![TestImportCPPClass.cs](img/42130597_2707341709283316_2299262612510081024_n.jpg)
 7. Create an empty GameObject in the scene and attach the script to it.
+
+    ![unity-hierarchy](img/41949974_2707346379282849_3289350954758963200_n.jpg)
 8. Press Play button to see the output in the console.
 
     ![unity-output-console](img/42227750_2707342812616539_2434765356070338560_n.jpg)

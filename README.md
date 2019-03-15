@@ -2,6 +2,8 @@
 
 Example exporting CPP class as DLL and importing in Unity C# as native plugin
 
+There will be times when you want to run your C++ code inside Unity. So you will need to export the code into DLL format and then import it in Unity. This project is showing you an example of exporting a **Student** class written in C++, and import it in Unity C#.
+
 ## How to run NOW
 
 Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You will see the output is being printed in the console.

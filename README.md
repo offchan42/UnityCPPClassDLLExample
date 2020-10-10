@@ -10,6 +10,9 @@ Open Unity project `TestImportCPPClass` and press Play button or Ctrl+P. You wil
 
 ![unity-output-console](img/42227750_2707342812616539_2434765356070338560_n.jpg)
 
+Then take a look at [TestImportCPPClass/Assets/TestImportCPPClass.cs](TestImportCPPClass/Assets/TestImportCPPClass.cs) to see how it is implemented.
+You will see quickly that it's just a bunch of function calls to the DLL files.
+
 ## How to reproduce result from scratch
 
 1. Open Visual Studio 2017 and create a new DLL project.
